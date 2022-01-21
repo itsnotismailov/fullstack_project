@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "izatimin_js"
-  },
   "api": {
     "projectId": "fsgyfq27",
     "dataset": "production"
+  },
+  "project": {
+    "name": "izatimin_js"
   },
   "plugins": [
     "@sanity/base",
